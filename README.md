@@ -1,10 +1,10 @@
 ![Scuderia Ferrari](assets/ferrari.png)
 
-▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░ <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="20"/> HI! I'M PRAVEEN
-▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/>  DATA SCIENCE ENTHUSIAST
-▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>  ML/DL TRAINEE
-▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="20"/>  REACT BEGINNER
-░░░░▄▄███▄▄░░░░░█████░ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="20"/>  LEVERAGING BIAS BEAUTIFULLY
+▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░ <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="20"/> HI! I'M PRAVEEN<br/>
+▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/>  DATA SCIENCE ENTHUSIAST <br/>
+▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>  ML/DL TRAINEE<br/>
+▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="20"/>  REACT BEGINNER<br/>
+░░░░▄▄███▄▄░░░░░█████░ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="20"/>  LEVERAGING BIAS BEAUTIFULLY<br/>
 
 
 
