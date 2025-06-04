@@ -1,10 +1,11 @@
 ![Scuderia Ferrari](assets/ferrari.png)
 
-▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░<br/>
-▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░<br/>
-▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░<br/>
-▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░<br/>
-░░░░▄▄███▄▄░░░░░█████░<br/>
+▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░ <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="20"/>  
+▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/>  
+▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/>  
+▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="20"/>  
+░░░░▄▄███▄▄░░░░░█████░ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="20"/>  
+
 
 
 
